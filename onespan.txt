@@ -1,5 +1,5 @@
-https://raw.githubusercontent.com/gemmoyara/juxtapose/main/lic.txt
-https://raw.githubusercontent.com/gemmoyara/juxtapose/main/lic2.txt
+https://gist.githubusercontent.com/muskara078/7fd43e193543f69d71d2aefdcb87e11e/raw/9ed2544cf6cab2a780274116eeb690b4bd2ae17d/lic
+https://gist.githubusercontent.com/muskara078/5be0019f43db80481e508aa9b0fc74fa/raw/bf3933ec0ee4b0c77c30856ec60b77dd7e896a10/lic2
 https://gist.githubusercontent.com/muskara078/12da0f1342b52716083ea506585ba744/raw/3a0883f441fadcbc04455fe00c3e53a0463cd41e/serverList
 https://raw.githubusercontent.com/gobox88/kakar/main/sps.txt
 https://raw.githubusercontent.com/gobox88/kakar/main/sps22.txt
