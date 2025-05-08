@@ -1,4 +1,4 @@
-https://gist.githubusercontent.com/muskara078/de1c3fe5d0c6c813d61fffe7b9aa7a7a/raw/88a0fcba122dab6365f845b2577661ec42b8d99f/lic
+https://gist.githubusercontent.com/muskara078/de1c3fe5d0c6c813d61fffe7b9aa7a7a/raw/1376cc6ca17fa0adfe61ade9c652b16bfdd8cfbf/lic
 https://gist.githubusercontent.com/muskara078/f8bc68be3d014eadbfffad8c743c1b2e/raw/706fd8b285d5f8049b62c0905b7a127652a73570/lic2
 https://gist.githubusercontent.com/muskara078/5aea40e9887170b23f58a7be94fc63af/raw/c9837456f1f963a2fb0d10d18ec2fc889eeafe12/serverList
 https://raw.githubusercontent.com/gobox88/kakar/main/sps.txt
